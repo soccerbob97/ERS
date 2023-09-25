@@ -14,3 +14,8 @@ Displays new UI for Menu Screen, Online Games, Store, and Inventory.
 
 https://drive.google.com/drive/folders/1rgHCUqg-6iFfuCZjJpV5GbGoc0YqgFF7?usp=share_link
 
+Pictures:
+
+Menu Screen
+
+![Alt text](MenuScreen.jpg "MenuScreen")
