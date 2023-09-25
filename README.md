@@ -20,3 +20,8 @@ Menu Screen
 
 <img src="https://user-images.githubusercontent.com/46753790/270210872-339e2a6d-9b31-49a9-ad11-d54506d0ffb2.jpg" width=50% height=50%>
 
+<img src="https://user-images.githubusercontent.com/46753790/270211325-eafdbe1c-25df-48b6-b2d5-c000029d2112.jpg" width=50% height=50%>
+
+<img src="https://user-images.githubusercontent.com/46753790/270211355-c012aa58-4da3-4a53-a3d7-dcb96b7c0f9f.jpg" width=50% height=50%>
+
+<img src="https://user-images.githubusercontent.com/46753790/270211383-97ba36cd-364f-4bb3-bd79-107191846ebd.jpg" width=50% height=50%>
