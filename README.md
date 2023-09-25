@@ -18,4 +18,4 @@ Pictures:
 
 Menu Screen
 
-![Alt text](MenuScreen.jpg "MenuScreen")
+![Alt text](MenuScreen.jpg "MenuScreen" | width=100)
