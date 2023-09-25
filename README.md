@@ -18,4 +18,5 @@ Pictures:
 
 Menu Screen
 
-![Alt text](MenuScreen.jpg "Hello" | width=100px)
+![TwoPlayerScreen](https://user-images.githubusercontent.com/46753790/270210872-339e2a6d-9b31-49a9-ad11-d54506d0ffb2.jpg width=50% height=50%)
+
